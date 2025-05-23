@@ -1,5 +1,17 @@
 # Web3 Interoperability: Bridge Analysis & Design
 
+- [Context](#context)
+- [Instructions](#instructions)
+- [Clarification on Trust Assumptions](#clarification-on-trust-assumptions)
+- [Resources](#resources)
+- [Disclaimer](#disclaimer)
+
+## Context
+
+This [document](./document.md) was created as part of a technical challenge for a Blockchain Researcher position.
+
+The time dedicated to this work was ~3.5 days of full-time effort, with 1 day of a pure research phase and the remaining time spent combining research with document elaboration.
+
 ## Instructions
 
 1. Analyze the most relevant web3 bridges. For each, compare each of the following:
@@ -21,12 +33,6 @@ Along this document, certain trust assumptions are considered common to all brid
 - Source and target domain consensus mechanisms (trust-minimized).
 - Extremely unlikely security leaks in the software (protocol contracts, node implementations, etc.).
 - Correctness of signature creation and verification systems.
-
-## Context
-
-This [document](./document.md) was created as part of a technical challenge for a Blockchain Researcher position.
-
-The time dedicated to this work was ~3.5 days of full-time effort, with ~1 of a pure research phase and the remaining time spent combining research with document elaboration.
 
 ## Resources
 
