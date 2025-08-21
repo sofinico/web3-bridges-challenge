@@ -205,7 +205,7 @@ In this model, the system suffers an attack. Potential vulnerabilites can be:
 
 In all the mentioned cases, the cost of attacking is on the order of blockchain transaction fees (aside from a non-quantifiable effort required from the attacker, e.g. gain access to the private keys). To reduce the post-attack risk of "loosing" the funds, the attacker might allow withdrawals from the bridge contract on the base chain to hold the native token rather than the synthetic version. 
 
-The attacker could potentially drain all locked funds of the base chain contract. Also, attacher could potentially mint and aribtraty amount of wrapped tokens on target chain.
+The attacker could potentially drain all locked funds of the base chain contract. Also, attacker could potentially mint and aribtrary amount of wrapped tokens on target chain.
 
 A little more of detail on the aforementioned attacks:
 
